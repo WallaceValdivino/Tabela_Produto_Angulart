@@ -1,0 +1,10 @@
+{
+"Produto" : [
+  {"id": 1, "nome": "Batata", "marca" : "Elma chips", "qtd_calorias" : 45, "peso" : 12, "fornecedor": "ibramar"},
+  {"id": 2, "nome": "Tomate", "marca" : "Elefante", "qtd_calorias" : 4, "peso" : 3, "fornecedor": "tomatitos"},
+  {"id": 3, "nome": "Queijo", "marca" : "President", "qtd_calorias" : 5, "peso" : 9, "fornecedor": "queijada"}
+]
+
+
+
+}
