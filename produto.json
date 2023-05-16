@@ -1,8 +1,9 @@
 {
-"Produto" : [
-  {"id": 1, "nome": "Batata", "marca" : "Elma chips", "qtd_calorias" : 45, "peso" : 12, "fornecedor": "ibramar"},
-  {"id": 2, "nome": "Tomate", "marca" : "Elefante", "qtd_calorias" : 4, "peso" : 3, "fornecedor": "tomatitos"},
-  {"id": 3, "nome": "Queijo", "marca" : "President", "qtd_calorias" : 5, "peso" : 9, "fornecedor": "queijada"}
+"products" : [
+  {"id": 1, "name": "Batata", "brand" : "Elma chips", "amount" : 45, "weight" : 12, "supplier": "Ibramar"},
+  {"id": 2, "name": "Tomate", "brand" : "Elefante", "amount" : 4, "weight" : 3, "supplier": "Tomatitos"},
+  {"id": 3, "name": "Queijo", "brand" : "President", "amount" : 5, "weight" : 9, "supplier": "Queijada"},
+  {"id": 4, "name": "Maça", "brand" : "Casa das laranjas", "amount" : 9, "weight" : 1, "supplier": "Casa dos limões"}
 ]
 
 

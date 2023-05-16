@@ -1,8 +1,8 @@
 export interface Produto{
 id : number;
-nome: string;
-marca: string;
-qtd_calorias : number;
-peso : number;
-fornecedor: string;
+name: string;
+brand: string;
+amount : number;
+weight : number;
+supplier: string;
 }

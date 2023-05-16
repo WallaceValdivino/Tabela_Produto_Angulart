@@ -1,1 +1,27 @@
-<p>produtos works!</p>
+<div class="bg-dark" style="min-height: 100vh;">
+  <div class="container border">
+<table class="table table-dark">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Nome</th>
+      <th scope="col">Marca</th>
+      <th scope="col">Calorias</th>
+      <th scope="col">Peso</th>
+      <th scope="col">Fornecedor</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let produto of produtos">
+      <th scope="row">{{produto.id}}</th>
+      <td>{{produto.name}}</td>
+      <td>{{produto.brand}}</td>
+      <td>{{produto.amount}}</td>
+      <td>{{produto.weight}}</td>
+      <td>{{produto.supplier}}</td>
+    </tr>
+
+  </tbody>
+</table>
+</div>
+</div>
